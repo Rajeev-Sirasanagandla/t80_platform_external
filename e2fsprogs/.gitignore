@@ -47,11 +47,6 @@ lib/et/com_err.pc
 lib/et/compile_et
 lib/et/libcom_err.a
 lib/et/subdirs
-lib/ext2fs/ext2_err.c
-lib/ext2fs/ext2_err.et
-lib/ext2fs/ext2_err.h
-lib/ext2fs/ext2_types.h
-lib/ext2fs/ext2fs.pc
 lib/ext2fs/libext2fs.a
 lib/ext2fs/subdirs
 lib/libblkid.a
